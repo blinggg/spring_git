@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mapper.StudentsMapper">
+    <select id="list" resultType="com.example.domain.StudentsVO">
+        select * from students
+    </select>
+    <select id="elist" resultType="com.example.domain.SEnrollVO">
+    	select e.lcode,lname,grade 
+		from enrollments e,courses c
+		where e.lcode=c.lcode and scode=#{scode}
+    </select>
+</mapper>

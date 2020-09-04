@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MySqlMapper.xml&apos; to &apos;0706new/src/main/resources/mapper&apos;&#x0D;&#x0A;- Original project: &apos;0706new&apos;&#x0D;&#x0A;- Destination element: &apos;0706new/src/main/resources/mapper&apos;&#x0D;&#x0A;- Original element: &apos;MySqlMapper.xml&apos;" description="Copy file" destination="/src\/main\/resources&lt;mapper" element1="src/main/resources/mapper/MySqlMapper.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1594020682537" units="0" version="1.0"/>
+</session>

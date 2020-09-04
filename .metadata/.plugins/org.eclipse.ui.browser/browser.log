@@ -1,0 +1,194 @@
+
+6월 22, 2020 16:41:15.08 NEW SESSION
+6월 22, 2020 16:41:15.08 [10488:12256:0622/164115.079:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.543 s for first_image_paint 0.51 s
+6월 22, 2020 16:41:16.08 [10488:12256:0622/164116.087:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.543 s for first_image_paint 0.51 s
+6월 22, 2020 16:41:17.13 [10488:12256:0622/164117.134:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.543 s for first_image_paint 0.51 s
+6월 22, 2020 16:41:18.44 [10488:12256:0622/164118.440:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.543 s for first_image_paint 0.51 s
+6월 22, 2020 16:41:19.91 [10488:12256:0622/164119.917:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.543 s for first_image_paint 0.51 s
+6월 22, 2020 16:53:56.82 [10488:2492:0622/165356.827:ERROR:socket_stream.cc(218)] Closing stream with result -2
+6월 22, 2020 18:45:41.95 [10488:2492:0622/184541.957:ERROR:socket_stream.cc(218)] Closing stream with result -2
+6월 22, 2020 18:45:42.67 [10488:2492:0622/184542.677:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 22, 2020 18:45:44.50 [10488:2492:0622/184544.502:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+6월 23, 2020 10:58:26.89 NEW SESSION
+6월 23, 2020 10:58:26.89 [6636:10412:0623/105826.896:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.22 s for first_image_paint 1.205 s
+6월 23, 2020 10:58:27.95 [6636:10412:0623/105827.951:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.22 s for first_image_paint 1.205 s
+6월 23, 2020 10:58:30.79 [6636:10412:0623/105830.797:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.22 s for first_image_paint 1.205 s
+
+6월 29, 2020 11:27:58.70 NEW SESSION
+6월 29, 2020 11:27:58.70 [3012:13980:0629/112758.701:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 29, 2020 12:38:35.06 [5272:6312:0629/123835.060:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+6월 30, 2020 09:36:46.31 NEW SESSION
+6월 30, 2020 09:36:46.31 [15568:5460:0630/093646.300:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+7월 02, 2020 17:06:20.82 NEW SESSION
+7월 02, 2020 17:06:20.82 [11268:13104:0702/170620.683:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 02, 2020 18:38:50.76 [11268:13740:0702/183850.766:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 02, 2020 18:38:51.61 [11268:13104:0702/183851.617:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 02, 2020 18:38:53.77 [11268:13104:0702/183853.775:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 02, 2020 18:39:47.25 [11268:13104:0702/183947.251:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 02, 2020 18:40:05.78 [11268:13104:0702/184005.788:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 02, 2020 18:40:10.92 [11268:13104:0702/184010.920:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 02, 2020 18:40:14.43 [11268:13104:0702/184014.436:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 02, 2020 18:42:18.95 [11268:13740:0702/184218.950:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 02, 2020 18:42:19.11 [11268:13104:0702/184219.112:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 02, 2020 18:42:36.92 [11268:13104:0702/184236.923:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 02, 2020 18:42:58.71 [11268:13104:0702/184258.710:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 02, 2020 18:43:10.06 [11268:13104:0702/184310.063:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 02, 2020 18:43:22.62 [11268:13104:0702/184322.625:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 02, 2020 18:43:49.95 [11268:13104:0702/184349.957:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 02, 2020 18:43:56.62 [11268:13104:0702/184356.626:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 02, 2020 18:44:48.95 [11268:13740:0702/184448.954:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 02, 2020 18:45:59.28 [11268:13104:0702/184559.288:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 02, 2020 18:45:59.30 [11268:13740:0702/184559.289:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 02, 2020 18:46:00.26 [11268:13104:0702/184600.268:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 02, 2020 18:46:00.28 [11268:13740:0702/184600.269:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 02, 2020 20:46:37.76 [11268:13104:0702/204637.766:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 02, 2020 20:49:16.68 [11268:13104:0702/204916.683:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 02, 2020 22:06:07.07 [11268:13104:0702/220607.074:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 02, 2020 22:08:31.63 [11268:13104:0702/220831.632:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+7월 03, 2020 12:36:11.09 NEW SESSION
+7월 03, 2020 12:36:11.09 [5280:17856:0703/123611.092:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 03, 2020 14:36:44.63 [17140:14392:0703/143644.637:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 03, 2020 14:36:48.97 [17140:14392:0703/143648.974:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 03, 2020 14:37:44.61 [17140:14392:0703/143744.617:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 03, 2020 16:10:51.23 [5864:8700:0703/161051.235:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+7월 03, 2020 16:33:24.05 [5864:8700:0703/163324.054:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+7월 03, 2020 16:53:36.83 [5864:8700:0703/165336.836:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 04, 2020 24:02:31.41 [5864:8700:0704/000231.410:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 04, 2020 24:02:31.52 [5864:14212:0704/000231.439:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 04, 2020 24:02:31.58 [5864:8700:0704/000231.454:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 04, 2020 24:02:33.11 [5864:8700:0704/000233.111:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 04, 2020 03:02:39.49 [5864:8700:0704/030239.493:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 04, 2020 03:02:39.54 [5864:14212:0704/030239.499:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 04, 2020 14:25:40.74 [5864:8700:0704/142540.745:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 04, 2020 14:25:40.81 [5864:14212:0704/142540.815:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 04, 2020 14:45:14.32 [5864:8700:0704/144514.320:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 04, 2020 17:45:17.69 [5864:8700:0704/174517.696:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 04, 2020 20:16:50.36 [5864:8700:0704/201650.368:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 04, 2020 20:16:50.97 [5864:14212:0704/201650.976:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 04, 2020 20:16:59.56 [5864:8700:0704/201659.567:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+7월 04, 2020 23:54:15.06 NEW SESSION
+7월 04, 2020 23:54:15.07 [15716:7548:0704/235415.064:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 04, 2020 23:54:38.53 [15716:7548:0704/235438.536:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 06, 2020 08:22:16.50 [15716:7548:0706/082216.500:ERROR:connection_handler_impl.cc(474)] Timed out waiting for GCM Protocol buffer.
+7월 06, 2020 08:22:17.32 [15716:18284:0706/082217.285:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 06, 2020 08:22:18.90 [15716:7548:0706/082218.908:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 06, 2020 08:27:29.09 [15716:7548:0706/082729.094:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 06, 2020 08:57:55.99 [15716:7548:0706/085755.992:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 06, 2020 12:07:15.16 [15716:7548:0706/120715.166:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 06, 2020 12:07:25.96 [15716:7548:0706/120725.962:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 06, 2020 12:07:32.09 [15716:7548:0706/120732.090:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 06, 2020 12:07:35.58 [15716:7548:0706/120735.581:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 06, 2020 12:10:10.46 [15716:7548:0706/121010.462:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 06, 2020 12:30:04.47 [15716:7548:0706/123004.474:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 06, 2020 13:00:34.79 [15716:7548:0706/130034.797:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 06, 2020 13:02:02.27 [15716:7548:0706/130202.274:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 06, 2020 13:02:03.78 [15716:7548:0706/130203.788:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+7월 06, 2020 16:26:34.86 NEW SESSION
+7월 06, 2020 16:26:34.86 [8196:11836:0706/162634.857:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 06, 2020 16:58:14.56 [7556:11796:0706/165814.559:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 06, 2020 19:58:16.39 [7556:11796:0706/195816.390:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 06, 2020 19:58:16.41 [7556:11796:0706/195816.395:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+7월 06, 2020 19:58:18.89 [7556:11796:0706/195818.898:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 07, 2020 08:29:08.26 [7556:11796:0707/082908.267:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 07, 2020 08:29:08.41 [7556:3344:0707/082908.409:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 07, 2020 08:29:41.25 [7556:11804:0707/082941.249:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+7월 07, 2020 08:29:53.59 [7556:3344:0707/082953.596:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 07, 2020 08:30:56.95 [7556:11796:0707/083056.954:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 07, 2020 15:31:16.30 [13316:13744:0707/153116.305:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 07, 2020 16:56:22.95 [13316:13744:0707/165622.953:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 07, 2020 18:11:51.79 [13316:13744:0707/181151.791:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 07, 2020 18:11:52.87 [13316:13744:0707/181152.872:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 07, 2020 18:12:37.19 [13316:13744:0707/181237.193:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 07, 2020 18:14:00.42 [13316:13744:0707/181400.426:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+7월 07, 2020 19:15:19.30 NEW SESSION
+7월 07, 2020 19:15:19.30 [3996:4184:0707/191519.283:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 07, 2020 20:00:54.49 [3996:4184:0707/200054.490:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 07, 2020 21:00:03.71 [3996:4184:0707/210003.710:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 07, 2020 22:38:40.97 [3996:4184:0707/223840.974:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 08, 2020 01:38:42.00 [3996:4184:0708/013842.005:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+7월 08, 2020 01:38:42.34 [3996:1344:0708/013842.016:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 08, 2020 01:38:43.75 [3996:4184:0708/013843.759:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 08, 2020 08:18:25.50 [3996:1344:0708/081825.507:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 08, 2020 08:18:26.26 [3996:4184:0708/081825.513:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 08, 2020 08:23:36.12 [3996:4184:0708/082336.120:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 08, 2020 08:34:14.83 [3996:1344:0708/083414.838:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 08, 2020 08:35:13.99 [3996:1344:0708/083513.994:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+7월 08, 2020 09:51:24.85 [3996:4184:0708/095124.850:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 08, 2020 12:49:24.36 [3996:4184:0708/124924.366:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 08, 2020 12:50:18.69 [3996:4184:0708/125018.696:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 08, 2020 13:52:51.21 [3996:4184:0708/135251.209:ERROR:socket_stream.cc(218)] Closing stream with result -2
+7월 08, 2020 14:05:32.52 [3996:4184:0708/140532.520:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+
+7월 09, 2020 12:15:27.19 NEW SESSION
+7월 09, 2020 12:15:27.19 [3284:14980:0709/121527.188:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 09, 2020 12:50:34.49 [3284:14980:0709/125034.498:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 09, 2020 12:55:38.59 [3284:14980:0709/125538.593:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 09, 2020 12:56:03.39 [3284:14980:0709/125603.389:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 09, 2020 12:56:57.96 [3284:14980:0709/125657.968:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+7월 10, 2020 12:02:10.30 NEW SESSION
+7월 10, 2020 12:02:10.30 [2892:6712:0710/120210.303:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+7월 20, 2020 15:28:54.10 NEW SESSION
+7월 20, 2020 15:28:54.10 [3000:6024:0720/152854.102:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-2mX1M62Fd0u8q0dQY2mRsK5S1NS9jJuQAvyE8tD0dkQ=' 'sha256-EtIKSV82ixJHE3AzqhoiVbUGKG+Kd8XS0fFToow29o0=' 'sha256-QSyFltV9X3gkyBrg+SMfKvZNXmqPQc6K4B6OYhTuXmw=' 'sha256-4M0jdrILwm/h3mCRbjIF07jAlCbI0ZbyLjQL/9HVhwE=' 'sha256-CbH+xPsBKQxVw5d9blISLDeuMSe1M+dJ4xfArFynIfw=' 'sha256-C9ctze2LhHtwL+fcPVPkmVRYjQgXTGs4xfBAzlQwGWk=' 'sha256-5EJjhCuZ8AxkkHAIe31x07Y5yKnx7kpgQhF0JpCiPOw='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+7월 20, 2020 15:28:54.12 ", source: chrome-search://local-ntp/local-ntp.html (1)
+
+7월 20, 2020 17:17:37.68 NEW SESSION
+7월 20, 2020 17:17:37.68 [10796:6300:0720/171737.684:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 20, 2020 17:18:07.62 [10796:6300:0720/171807.623:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 20, 2020 17:18:55.39 [10796:6300:0720/171855.391:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 20, 2020 17:20:38.74 [10796:6300:0720/172038.746:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 20, 2020 17:23:29.23 [10796:6300:0720/172329.229:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 20, 2020 17:29:43.06 [10796:6300:0720/172943.067:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 20, 2020 17:38:45.37 [10796:10788:0720/173845.372:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-2mX1M62Fd0u8q0dQY2mRsK5S1NS9jJuQAvyE8tD0dkQ=' 'sha256-EtIKSV82ixJHE3AzqhoiVbUGKG+Kd8XS0fFToow29o0=' 'sha256-QSyFltV9X3gkyBrg+SMfKvZNXmqPQc6K4B6OYhTuXmw=' 'sha256-4M0jdrILwm/h3mCRbjIF07jAlCbI0ZbyLjQL/9HVhwE=' 'sha256-CbH+xPsBKQxVw5d9blISLDeuMSe1M+dJ4xfArFynIfw=' 'sha256-C9ctze2LhHtwL+fcPVPkmVRYjQgXTGs4xfBAzlQwGWk=' 'sha256-5EJjhCuZ8AxkkHAIe31x07Y5yKnx7kpgQhF0JpCiPOw='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+7월 20, 2020 17:38:45.38 ", source: chrome-search://local-ntp/local-ntp.html (1)
+7월 20, 2020 17:41:22.09 [10796:10788:0720/174122.096:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-2mX1M62Fd0u8q0dQY2mRsK5S1NS9jJuQAvyE8tD0dkQ=' 'sha256-EtIKSV82ixJHE3AzqhoiVbUGKG+Kd8XS0fFToow29o0=' 'sha256-QSyFltV9X3gkyBrg+SMfKvZNXmqPQc6K4B6OYhTuXmw=' 'sha256-4M0jdrILwm/h3mCRbjIF07jAlCbI0ZbyLjQL/9HVhwE=' 'sha256-CbH+xPsBKQxVw5d9blISLDeuMSe1M+dJ4xfArFynIfw=' 'sha256-C9ctze2LhHtwL+fcPVPkmVRYjQgXTGs4xfBAzlQwGWk=' 'sha256-5EJjhCuZ8AxkkHAIe31x07Y5yKnx7kpgQhF0JpCiPOw='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+7월 20, 2020 17:41:22.10 ", source: chrome-search://local-ntp/local-ntp.html (1)
+7월 20, 2020 17:42:17.54 [10796:10788:0720/174217.547:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-2mX1M62Fd0u8q0dQY2mRsK5S1NS9jJuQAvyE8tD0dkQ=' 'sha256-EtIKSV82ixJHE3AzqhoiVbUGKG+Kd8XS0fFToow29o0=' 'sha256-QSyFltV9X3gkyBrg+SMfKvZNXmqPQc6K4B6OYhTuXmw=' 'sha256-4M0jdrILwm/h3mCRbjIF07jAlCbI0ZbyLjQL/9HVhwE=' 'sha256-CbH+xPsBKQxVw5d9blISLDeuMSe1M+dJ4xfArFynIfw=' 'sha256-C9ctze2LhHtwL+fcPVPkmVRYjQgXTGs4xfBAzlQwGWk=' 'sha256-5EJjhCuZ8AxkkHAIe31x07Y5yKnx7kpgQhF0JpCiPOw='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+7월 20, 2020 17:42:17.55 ", source: chrome-search://local-ntp/local-ntp.html (1)
+7월 20, 2020 17:57:47.27 [10796:10788:0720/175747.277:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-2mX1M62Fd0u8q0dQY2mRsK5S1NS9jJuQAvyE8tD0dkQ=' 'sha256-EtIKSV82ixJHE3AzqhoiVbUGKG+Kd8XS0fFToow29o0=' 'sha256-QSyFltV9X3gkyBrg+SMfKvZNXmqPQc6K4B6OYhTuXmw=' 'sha256-4M0jdrILwm/h3mCRbjIF07jAlCbI0ZbyLjQL/9HVhwE=' 'sha256-CbH+xPsBKQxVw5d9blISLDeuMSe1M+dJ4xfArFynIfw=' 'sha256-C9ctze2LhHtwL+fcPVPkmVRYjQgXTGs4xfBAzlQwGWk=' 'sha256-5EJjhCuZ8AxkkHAIe31x07Y5yKnx7kpgQhF0JpCiPOw='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+7월 20, 2020 17:57:47.29 ", source: chrome-search://local-ntp/local-ntp.html (1)
+
+7월 21, 2020 10:05:33.51 NEW SESSION
+7월 21, 2020 10:05:33.51 [7236:6344:0721/100533.508:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+7월 21, 2020 14:58:59.07 [7236:6344:0721/145859.076:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+
+7월 28, 2020 09:29:55.31 NEW SESSION
+7월 28, 2020 09:29:55.31 [8700:6388:0728/092955.292:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.364 s for first_image_paint 0.314 s
+7월 28, 2020 09:29:56.32 [8700:6388:0728/092956.321:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.364 s for first_image_paint 0.314 s
+7월 28, 2020 09:29:58.67 [8700:6388:0728/092958.676:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.364 s for first_image_paint 0.314 s
+7월 28, 2020 09:29:59.72 [8700:6388:0728/092959.720:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.364 s for first_image_paint 0.314 s
+7월 28, 2020 09:30:00.86 [8700:6388:0728/093000.868:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.364 s for first_image_paint 0.314 s
+7월 28, 2020 09:30:02.19 [8700:6388:0728/093002.192:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.364 s for first_image_paint 0.314 s
+
+7월 29, 2020 09:06:48.45 NEW SESSION
+7월 29, 2020 09:06:48.45 [11056:13088:0729/090648.446:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.47 s for first_image_paint 0.404 s
+7월 29, 2020 09:06:49.55 [11056:13088:0729/090649.558:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.47 s for first_image_paint 0.404 s
+7월 29, 2020 09:53:45.08 [11056:11600:0729/095345.087:ERROR:socket_stream.cc(219)] Closing stream with result -2
+7월 29, 2020 10:05:20.56 [11056:11600:0729/100520.565:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+7월 29, 2020 17:54:38.04 NEW SESSION
+7월 29, 2020 17:54:38.04 [96:1844:0729/175438.043:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.376 s for first_image_paint 0.31 s
+
+7월 31, 2020 13:46:15.34 NEW SESSION
+7월 31, 2020 13:46:15.34 [516:10632:0731/134615.343:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.403 s for first_image_paint 0.353 s
+7월 31, 2020 13:46:16.36 [516:10632:0731/134616.363:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.403 s for first_image_paint 0.353 s
+7월 31, 2020 13:46:17.48 [516:10632:0731/134617.488:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.403 s for first_image_paint 0.353 s
+7월 31, 2020 15:35:17.04 [516:10632:0731/153517.039:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.729 s for first_image_paint 1.68 s
+7월 31, 2020 15:35:18.04 [516:10632:0731/153518.041:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.729 s for first_image_paint 1.68 s
+7월 31, 2020 15:35:20.23 [516:10632:0731/153520.235:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.729 s for first_image_paint 1.68 s
+7월 31, 2020 15:35:21.34 [516:10632:0731/153521.343:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.729 s for first_image_paint 1.68 s
+7월 31, 2020 15:49:04.56 [516:10632:0731/154904.567:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.386 s for first_image_paint 0.353 s
+7월 31, 2020 15:49:05.57 [516:10632:0731/154905.573:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.386 s for first_image_paint 0.353 s
+7월 31, 2020 15:49:07.68 [516:10632:0731/154907.688:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.386 s for first_image_paint 0.353 s
+7월 31, 2020 15:49:08.02 [516:10632:0731/154908.020:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.386 s for first_image_paint 0.353 s
+7월 31, 2020 15:51:07.23 [516:10632:0731/155107.233:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.369 s for first_image_paint 0.321 s
+7월 31, 2020 15:51:08.23 [516:10632:0731/155108.238:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.369 s for first_image_paint 0.321 s
+7월 31, 2020 15:51:08.82 [516:10632:0731/155108.822:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.369 s for first_image_paint 0.321 s

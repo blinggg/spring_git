@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;0626 haksa/src/main/java/com.example.domain&apos;&#x0D;&#x0A;- Original project: &apos;ex05&apos;&#x0D;&#x0A;- Destination element: &apos;0626 haksa/src/main/java/com.example.domain&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.example.domain.PageMaker.java&#x0D;&#x0A;     com.example.domain.Criteria.java" description="Copy compilation units" destination="=0626 haksa/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.domain" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.domain{PageMaker.java" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.domain{Criteria.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1593130413612" units="2" version="1.0"/>
+</session>

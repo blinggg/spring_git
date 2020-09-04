@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mapper.UserMapper">
+    <select id="list" resultType="com.example.domain.UserVO">
+        select * from tbl_user
+    </select>
+    <select id="read" resultType="com.example.domain.UserVO">
+        select * from tbl_user where id=#{id}
+    </select>
+    <insert id="insert">
+    	insert into tbl_user(id,pass,name,image) values(#{id},#{pass},#{name},#{image})
+    </insert>
+    <update id="update">
+    	update tbl_user set pass=#{pass},name=#{name},image=#{image} where id=#{id}
+    </update>
+    <delete id="delete">
+    	delete from tbl_user where id=#{id}
+    </delete>
+    <select id="getAttach" resultType="String">
+    	select image from user_attach where id=#{id}
+    </select>
+    <insert id="addAttach">
+    	insert into user_attach(image,id) values(#{image},#{id})
+    </insert>
+    <delete id="delAttach">
+    	delete from user_attach where id=#{id}
+    </delete>
+</mapper>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mapper.EnrollMapper">
+	<insert id="insert">
+		insert into enrollments(scode,lcode,edate) values(#{scode},#{lcode},now())
+	</insert>
+	<delete id="delete">
+		delete from enrollments where scode=#{scode} and lcode=#{lcode}
+	</delete>
+    <update id="update">
+    	update enrollments set grade=#{grade} where lcode=#{lcode} and scode=#{scode}
+    </update>
+    <select id="read" resultType="int">
+    	select count(*) from enrollments
+    	where scode=#{scode} and lcode=#{lcode}
+    </select>
+</mapper>

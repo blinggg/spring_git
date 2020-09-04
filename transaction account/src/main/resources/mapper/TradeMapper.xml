@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mapper.TradeMapper">
+    <insert id="insert">
+    	insert into tbl_trade(ano, tradeNo, amount, type)
+    	 values(#{ano},#{tradeNo},#{amount},#{type})
+    </insert>
+    <select id="list" resultType="com.example.domain.TradeVO">
+    	select * from tbl_trade where ano=#{ano}
+    </select>
+</mapper>

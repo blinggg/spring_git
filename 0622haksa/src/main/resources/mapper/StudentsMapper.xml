@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mapper.StudentsMapper"> <!-- interface 이름과 같게 -->
+    <select id="list" resultType="com.example.domain.StudentsVO"><!-- vo 이름과 같게 -->
+ 		select s.*,pname from students s left join professors p on s.advisor=p.pcode;
+    </select>
+    <insert id="insert">
+    	insert into students(scode,sname) values(#{scode},#{sname})
+    </insert>
+</mapper> 

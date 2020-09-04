@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mapper.SumMapper">
+    <select id="sum1" resultType="com.example.domain.SumVO">
+        select lname name, avg(grade) value from enrollments e, courses c where e.lcode=c.lcode group by lname order by lname
+    </select>
+    <select id="sum2" resultType="com.example.domain.SumVO">
+        select sname name, avg(grade) value from enrollments e, students s where s.scode=e.scode group by sname order by sname
+    </select>
+    <select id="sum3" resultType="com.example.domain.SumVO">
+        select lname name, count(scode) value from enrollments e, courses c where e.lcode=c.lcode group by lname order by lname
+    </select>
+    <select id="sum4" resultType="com.example.domain.SumVO">
+        select sname name, count(lcode) value from enrollments e, students s where e.scode=s.scode group by lcode order by sname
+    </select>
+    <select id="sum5" resultType="com.example.domain.SumVO">
+        select sname name, avg(grade) value,count(lcode) value2 from enrollments e, students s where s.scode=e.scode group by sname order by sname
+    </select>
+    <select id="sum6" resultType="com.example.domain.SumVO">
+        select lname name, count(scode) value , max(grade) value2, min(grade) value3 , avg(grade) value4 from enrollments e, courses c where e.lcode=c.lcode group by lname order by lname
+    </select>
+    <select id="sum7" resultType="com.example.domain.SumVO">
+        select dept name, count(*) value from students group by dept
+    </select>
+</mapper>

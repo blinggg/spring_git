@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mapper.MessageMapper">
+    <select id="listsend" resultType="com.example.domain.MessageVO">
+        select tbl_message.*, tbl_user.name from tbl_message, tbl_user
+ 		where sender = #{id} and id=receiver sdel=0
+ 		order by mid desc
+    </select>
+    <select id="listreceive" resultType="com.example.domain.MessageVO">
+        select tbl_message.*, tbl_user.name from tbl_message, tbl_user
+ 		where receiver = #{id} and id=sender
+ 		order by mid desc
+    </select>
+    <insert id="insert">
+    	insert into tbl_message(receiver,sender,message,sendDate) values(#{receiver},#{sender},#{message},now());
+    </insert>
+    <select id="read" resultType="com.example.domain.MessageVO">
+    	select tbl_message.*, tbl_user.name from tbl_message, tbl_user
+ 		where mid = #{mid} and id=sender
+    </select>
+    <update id="updateRead">
+    	update tbl_message set readDate=now() where mid=#{mid}
+    </update>
+    <update id="updateSdel">
+    	update tbl_message set sdel=1 where mid=#{mid}
+    </update>
+</mapper>

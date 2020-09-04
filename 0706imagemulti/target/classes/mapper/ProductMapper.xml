@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mapper.ProductMapper">
+    <select id="list" resultType="com.example.domain.ProductVO">
+        select * from tbl_product
+        <if test="searchType=='pcode'">
+        	where pcode like concat('%', #{keyword}, '%')
+        </if>
+        <if test="searchType=='pname'">
+        	where pname like concat('%', #{keyword}, '%')
+        </if>
+        order by pcode
+        limit #{pageStart},#{perPageNum}
+    </select>
+    <insert id="insert">
+    	insert into tbl_product(pcode,pname,price,image)
+    	values(#{pcode},#{pname},#{price},#{image})
+    </insert>
+    <select id="totalCount" resultType="int">
+    	select count(*) from tbl_product
+    	<if test="searchType=='pcode'">
+        	where pcode like concat('%', #{keyword}, '%')
+        </if>
+        <if test="searchType=='pname'">
+        	where pname like concat('%', #{keyword}, '%')
+        </if>
+    </select>
+    <select id="read" resultType="com.example.domain.ProductVO">
+    	select * from tbl_product where pcode=#{pcode}
+    </select>
+    <update id="update">
+    	update tbl_product set pname=#{pname},price=#{price},image=#{image} where pcode=#{pcode}
+    </update>
+    <delete id="delete">
+    	delete from tbl_product where pcode=#{pcode}
+    </delete>
+    <insert id="addAttach">
+		insert into tbl_attach(image,pcode)
+		values(#{image},#{pcode})    
+    </insert>
+    <select id="getAttach" resultType="string">
+    	select image from tbl_attach where pcode=#{pcode}
+    </select>
+    <delete id="delAttach">
+    	delete from tbl_attach where pcode=#{pcode}
+    </delete>
+</mapper>
